@@ -1,6 +1,6 @@
 # EDA-on-Car-Models
 
-This repository contains the code for exploratory data analysis (EDA) on a dataset of car models. The dataset contains over 10,000 rows and 16 columns, which includes features such as make, model, year, engine, engine fuel type, engine horsepower, transmission type, highway MPG, city MPG, and more.
+This repository contains the code for exploratory data analysis (EDA) on a dataset of car models. The dataset contains over 404 rows and 13 columns, which includes features such as make, model, year, engine, engine fuel type, engine horsepower, transmission type, highway MPG, city MPG, and more.
 
 ### The EDA code is written in Python and uses the following libraries:
 1. Pandas
